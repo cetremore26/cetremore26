@@ -38,6 +38,9 @@ React 18 + TypeScript + Vite + Tailwind 4 storefront for high-end watches and fr
 ### 📈 [Landing Campaña](https://github.com/cetremore26/landing-campana) — conversion landing page
 Lightweight landing page built for paid ad campaigns driving traffic to the store.
 
+### 🤝 SrPatatas — team collaboration (private repo)
+Contributor on a private team project. Available on request.
+
 ---
 
 ## Right now
