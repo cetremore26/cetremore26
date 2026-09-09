@@ -13,9 +13,13 @@ By day I'm an **electromechanical technologist at Metro de Medellín**, where I 
 ## Tech
 
 **Backend** · NestJS · TypeScript · Prisma · PostgreSQL · Remix · JWT + refresh tokens · Argon2 · Swagger/OpenAPI
+
 **Frontend** · React 18/19 · TypeScript · Vite · Tailwind CSS · React Router · Recharts
+
 **Automation** · Python · pandas · openpyxl · C# / .NET · ERP GUI scripting · PyInstaller
+
 **Infra** · Supabase · Render · GitHub Actions · MercadoPago · Shopify · Resend
+
 **Practices** · DTO validation · role-based guards · rate limiting · audit logging · signed webhooks · HMAC verification · DB migrations · GDPR compliance
 
 ---
