@@ -46,7 +46,7 @@ By day I'm an **electromechanical technologist at Metro de Medellín**, where I 
 
 **Customer-facing catalog.** React 18 + TypeScript + Vite + Tailwind 4 storefront. Filtering by brand, category, gender and price; live stock; CSP injected at build time; route-level code splitting via manual vendor chunks.
 
-🔗 **[Live site](https://cetremore26.github.io/boveda-c3lect-v2/)**
+🔗 **[Live site](https://c3lect.com)**
 
 ### ⚙️ [Maintenance scheduling automation](https://github.com/cetremore26/case-study-automatizacion-mantenimiento)
 
